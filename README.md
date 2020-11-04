@@ -5,4 +5,4 @@ This GUI is a toy project to use [nimvisa](https://github.com/leeooox/nimvisa) l
 
 The exe file is as small as 321KB while programming the code by Nim is just similar to Python.
 
-![GUI](doc\GUI.png)
+![GUI](doc/GUI.png)
